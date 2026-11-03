@@ -1,0 +1,4 @@
+PASS timbre=0 twelve keys max pressure: peak=5394 coherent_dry_bound=15408 effects_bound=23112
+PASS timbre=1 twelve keys max pressure: peak=6507 coherent_dry_bound=18576 effects_bound=27864
+PASS timbre=2 twelve keys max pressure: peak=6661 coherent_dry_bound=17600 effects_bound=26400
+PASS timbre=3 twelve keys max pressure: peak=6529 coherent_dry_bound=10576 effects_bound=15864

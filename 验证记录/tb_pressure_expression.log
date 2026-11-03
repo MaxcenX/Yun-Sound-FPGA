@@ -1,0 +1,5 @@
+PASS tone=0 root rest=56 full=180 monotonic curve, held-key PARAMS without retrigger
+PASS tone=1 root rest=46 full=150 monotonic curve, held-key PARAMS without retrigger
+PASS tone=2 root rest=56 full=180 monotonic curve, held-key PARAMS without retrigger
+PASS tone=3 root rest=68 full=220 monotonic curve, held-key PARAMS without retrigger
+PASS 128-frequency test mode independent of pressure

@@ -1,0 +1,10 @@
+{
+  "stage": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\acg525_apk_m078mfvd",
+  "apk": "ACG525_MusicCoach_2.2_reconstruction.apk",
+  "sha256": "984f414874fcd04f238532d846694c4e57460d88f4f8e06743c05c5d3517646d",
+  "bytes": 111496,
+  "compile_sdk": 34,
+  "min_sdk": 23,
+  "target_sdk": 34,
+  "signing": "local testing RSA key; not an app-store release"
+}

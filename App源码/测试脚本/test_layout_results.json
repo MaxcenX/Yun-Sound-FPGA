@@ -1,0 +1,32 @@
+{
+  "source": "Synthetic BLE replay on desktop Edge; not tablet radio timing",
+  "results": [
+    {
+      "width": 1400,
+      "height": 920,
+      "maxPositionDelta": 0,
+      "maxHandlerMs": 0.5,
+      "meanHandlerMs": 0.19687500968575478,
+      "done": true,
+      "scrollY": 220
+    },
+    {
+      "width": 800,
+      "height": 1280,
+      "maxPositionDelta": 0,
+      "maxHandlerMs": 0.39999985694885254,
+      "meanHandlerMs": 0.18124999478459358,
+      "done": true,
+      "scrollY": 220
+    },
+    {
+      "width": 412,
+      "height": 850,
+      "maxPositionDelta": 0,
+      "maxHandlerMs": 0.5,
+      "meanHandlerMs": 0.19687501341104507,
+      "done": true,
+      "scrollY": 220
+    }
+  ]
+}

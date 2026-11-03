@@ -1,0 +1,142 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\adc_reader.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads1115_reader.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_axis.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_core.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\led595_driver.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\visual_telemetry.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_pressure_map.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\audio_effects.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\codec_master_init.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\display_page.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\expression_ratio.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\external_axis.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\gate_control.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\i2c_reg16.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\i2c_word16.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\i2c_write24.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\i2s_codec_master.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\joystick_control.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\lesson_guide.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\mcp3208_reader.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\mpr121_reader.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_ui.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\pitch_lut.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\seg_display.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\synth32_engine.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\waveform.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_instrument.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\uart_rx.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\uart_tx.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\score_ble.v'
+Analyzing Verilog file 'C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\score_status_tx.v'
+Compiling module 'ads_instrument'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_instrument.v":1)
+Compiling module 'ads_core'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_core.v":2)
+Compiling module 'performance_ui'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_ui.v":6)
+Extracting RAM for identifier 'debounce_count'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_ui.v":37)
+Compiling module 'codec_master_init'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\codec_master_init.v":5)
+Compiling module 'i2c_write24'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\i2c_write24.v":5)
+Compiling module 'mpr121_reader'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\mpr121_reader.v":4)
+Compiling module 'i2c_reg16(Q=63)'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\i2c_reg16.v":4)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 8("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\mpr121_reader.v":24)
+Compiling module 'ads1115_reader'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads1115_reader.v":5)
+Compiling module 'i2c_word16(Q=125)'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\i2c_word16.v":4)
+Compiling module 'ads_pressure_map'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_pressure_map.v":4)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 11("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_pressure_map.v":13)
+Compiling module 'ads_axis'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_axis.v":6)
+WARN  (EX3791) : Expression size 9 truncated to fit in target size 7("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_axis.v":26)
+WARN  (EX3791) : Expression size 18 truncated to fit in target size 14("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_axis.v":86)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 17("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_axis.v":106)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 11("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_axis.v":107)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 9("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_axis.v":51)
+Compiling module 'ads_axis(MODE=1)'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_axis.v":6)
+WARN  (EX3791) : Expression size 9 truncated to fit in target size 7("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_axis.v":26)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 9("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_axis.v":29)
+WARN  (EX3791) : Expression size 18 truncated to fit in target size 14("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_axis.v":86)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 17("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_axis.v":106)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 11("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_axis.v":107)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 9("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_axis.v":51)
+WARN  (EX3791) : Expression size 12 truncated to fit in target size 10("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_core.v":45)
+Compiling module 'expression_ratio'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\expression_ratio.v":1)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 12("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_core.v":54)
+Compiling module 'performance_control'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v":4)
+Extracting RAM for identifier 'key_octave'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v":13)
+Extracting RAM for identifier 'voice_timbre'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v":24)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v":74)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v":75)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v":76)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v":77)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v":78)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v":79)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v":80)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v":81)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v":82)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v":83)
+WARN  (EX3791) : Expression size 7 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\performance_control.v":84)
+Compiling module 'synth32_engine'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\synth32_engine.v":15)
+Extracting RAM for identifier 'phase'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\synth32_engine.v":36)
+Extracting RAM for identifier 'step'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\synth32_engine.v":36)
+Extracting RAM for identifier 'env'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\synth32_engine.v":37)
+Extracting RAM for identifier 'attack'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\synth32_engine.v":37)
+Extracting RAM for identifier 'decay'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\synth32_engine.v":37)
+Extracting RAM for identifier 'sustain'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\synth32_engine.v":37)
+Extracting RAM for identifier 'rel'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\synth32_engine.v":37)
+Extracting RAM for identifier 'state'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\synth32_engine.v":38)
+Extracting RAM for identifier 'wave_mode'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\synth32_engine.v":39)
+Compiling module 'waveform'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\waveform.v":4)
+Compiling module 'audio_effects'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\audio_effects.v":4)
+Extracting RAM for identifier 'history'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\audio_effects.v":6)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 28("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\audio_effects.v":16)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 24("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\audio_effects.v":18)
+Compiling module 'i2s_codec_master'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\i2s_codec_master.v":5)
+Compiling module 'visual_telemetry'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\visual_telemetry.v":2)
+Extracting RAM for identifier 'real_sum'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\visual_telemetry.v":519)
+Extracting RAM for identifier 'imag_sum'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\visual_telemetry.v":519)
+Compiling module 'score_ble'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\score_ble.v":4)
+Extracting RAM for identifier 'notes'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\score_ble.v":23)
+Extracting RAM for identifier 'onset_octave'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\score_ble.v":49)
+Compiling module 'uart_rx'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\uart_rx.v":5)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 5("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\score_ble.v":27)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 5("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\score_ble.v":28)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 5("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\score_ble.v":29)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\score_ble.v":48)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 22("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\score_ble.v":68)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 7("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\score_ble.v":106)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 2("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\score_ble.v":121)
+Compiling module 'score_status_tx'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\score_status_tx.v":2)
+Extracting RAM for identifier 'fifo'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\score_status_tx.v":9)
+Compiling module 'uart_tx'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\uart_tx.v":2)
+Compiling module 'led595_driver'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\led595_driver.v":3)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_core.v":96)
+Compiling module 'display_page'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\display_page.v":2)
+WARN  (EX3791) : Expression size 3 truncated to fit in target size 2("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\display_page.v":13)
+WARN  (EX3791) : Expression size 20 truncated to fit in target size 7("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_core.v":105)
+WARN  (EX3791) : Expression size 7 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_core.v":106)
+WARN  (EX3791) : Expression size 12 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_core.v":110)
+WARN  (EX3791) : Expression size 7 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_core.v":112)
+WARN  (EX3791) : Expression size 8 truncated to fit in target size 4("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_core.v":118)
+Compiling module 'seg_display'("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\seg_display.v":8)
+NOTE  (EX0101) : Current top module is "ads_instrument"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+WARN  (NL0002) : The module "expression_ratio" instantiated to "ratios" is swept in optimizing("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\ads_core.v":46)
+WARN  (NL0002) : The module "waveform" instantiated to "shared_waveform" is swept in optimizing("C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\rtl\synth32_engine.v":98)
+[95%] Generate netlist file "C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\impl\gwsynthesis\project.vg" completed
+[100%] Generate report file "C:\Users\Lenovo\AppData\Local\Temp\acg525_build_hry0fdz7\impl\gwsynthesis\project_syn.rpt.html" completed
+GowinSynthesis finish
